@@ -19,12 +19,4 @@ LeetCode problems are great for preparing for coding interviews and honing your 
 
 ---
 
-## Easy Problems
 
-These are problems that can be solved with basic algorithms and concepts. They are suitable for beginners.
-
-### Problem 1: **Two Sum**
-
-**Description**: Given an array of integers, return the indices of the two numbers that add up to a specific target.
-
-```cpp
